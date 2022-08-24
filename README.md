@@ -12,7 +12,8 @@ Upon further exploration of the data, there are a few visible differences betwee
 * The mean temperature for June is 74.94℉, nearly 4° degrees higher than that of December.
 * The biggest difference is in minimum recorder temperature, with June logging in at 64℉ degrees and December at 56℉.
 
-PICTURES
+![June](https://user-images.githubusercontent.com/107452167/186366417-23e30267-04a3-4fc2-b91d-11ff345930bb.png) ![Dec](https://user-images.githubusercontent.com/107452167/186366350-2843adc5-0b62-48b8-8b1a-554e9c3409f3.png) 
+
 
 ## Summary
 
