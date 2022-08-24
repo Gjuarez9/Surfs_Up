@@ -18,3 +18,5 @@ Upon further exploration of the data, there are a few visible differences betwee
 ## Summary
 
 Despite these differences in temperature, if you take a closer look at the top 75 percentiles whe can see that the days in which december records such low temps must be a few. All in all the data seems to be pretty close during a "summer" month and a "winter" one. The differences do not seem to be significant enough to reasonably deter our investor from continuing his venture project and opening up another Surf n' Shake location.
+
+Perhaps if we wanted to dive deeper into this we can create a full month line chart for each day to highlight some of the differences found or even a box & whisker plot to do the same!
